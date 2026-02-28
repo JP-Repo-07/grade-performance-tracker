@@ -1,0 +1,5 @@
+{
+  "name": "GradeTrack Pro",
+  "description": "A student grade tracking dashboard that parses Excel and Google Sheets to provide pass/fail analytics, and detailed reporting.",
+  "requestFramePermissions": []
+}
